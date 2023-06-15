@@ -1,4 +1,4 @@
-# Version 1.1.0 - [Date]
+# Version 1.1.0
 
 ## Added
 - 10 new levels for extended gameplay
@@ -15,12 +15,12 @@
 - Addressed minor bugs and glitches for improved stability
 - Resolved compatibility issues with certain pocket devices
 
-# Version 1.0.1 - [Date]
+# Version 1.0.1
 
 ## Fixed
 - Fixed a critical bug that caused the game to crash on startup for some users
 - Resolved minor graphical glitches in certain levels
 
-# Version 1.0.0 - Initial Release - [Date]
+# Version 1.0.0 - Initial Release
 
 - Initial release of Pocket Arkanoid, bringing classic Arkanoid gameplay to pocket devices with black-and-white screens.
